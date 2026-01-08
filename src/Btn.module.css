@@ -1,0 +1,12 @@
+.section{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn{
+  height: 65px;
+  width: 65px;
+  margin: 7px;
+  border-radius: 5px;
+}
